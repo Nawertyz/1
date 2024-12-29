@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'SFPro';
+    font-weight: 300;
+    font-display: swap;
+    src: url('../fonts/San-Francisco/SFProText-Semibold.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: 'SFPro';
+    font-weight: 400;
+    font-display: swap;
+    src: url('../fonts/San-Francisco/SFProText-Regular.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: 'SFPro';
+    font-weight: 600;
+    font-display: swap;
+    src: url('../fonts/San-Francisco/SFProText-Medium.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: 'SFPro';
+    font-weight: 800;
+    font-display: swap;
+    src: url('../fonts/San-Francisco/SFProText-Bold.woff2') format('woff2');
+  }
